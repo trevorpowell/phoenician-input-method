@@ -2,7 +2,7 @@
 Unicode input methods for typing in Phoenician/Paleo-Hebrew on Mac
 
 # Key Mapping
-The key mapping for the input method matches the letters of the Phoenician/Paleo-Hebrew alphabet to their corresponding Hebrew letters on the standard Hebrew keyboard layout
+The key mapping for the input method matches the letters of the Phoenician/Paleo-Hebrew alphabet to their corresponding Hebrew letters on the standard Hebrew keyboard layout. Where letters have different final forms in Hebrew, those letters are duplicated in this layout.
 
 ![Key Mapping](phoenician-key-mapping.png)
 
